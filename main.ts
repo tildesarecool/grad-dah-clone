@@ -7,11 +7,11 @@ sprites.onOverlap(SpriteKind.Enemy, SpriteKind.Player, function (sprite, otherSp
     info.changeLifeBy(-1)
     music.smallCrash.play()
 })
+sprites.onDestroyed(SpriteKind.Enemy, function (sprite) {
+    EnemyCounter = EnemyCounter - 1
+})
 sprites.onOverlap(SpriteKind.Projectile, SpriteKind.Enemy, function (sprite, otherSprite) {
     otherSprite.destroy(effects.fire, 500)
-    if (EnemyCounter > 0) {
-        EnemyCounter = 0
-    }
     info.changeScoreBy(1)
     music.sonar.play()
 })
@@ -29,8 +29,6 @@ info.setLife(3)
 game.onUpdateInterval(100, function () {
     if (EnemyCounter == 0) {
         AlienShips.setPosition(111, randint(1, scene.screenHeight()))
-        EnemyCounter += 1
-    } else {
-        AlienShips.setBounceOnWall(true)
+        EnemyCounter = EnemyCounter + 1
     }
 })
