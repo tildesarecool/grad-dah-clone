@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQeABQAAAD/////////////AAD///////3/////AAD///////3/////AAD///////H/////AAD///b/////////AAD//2H/ERH/////AAD//xn2//+7////AAD//xlhmZz/+///AAD//58RmZz7v///AAD//58RmZy///v/AAD///8Znpxm+/b/AAD///8ZnpxmZvb/AAD///+fnpxmZvb/AAD/////3pxmZvb/AAD/////3pwW9v//AAD/////3pwW9v//AAD/////3pwW9v//AAD/////3pwW9v//AAD///+/2ZwW9v//AAD///+/25wW9v//AAD///+/25wW9v//AAD/////25wW9v//AAD/////25zm////AAD/////2+zu////AAD/////2ezu////AAD/////2cHv////AAD/////2fH/////AAD/////3///////AAD/////3///////AAD/////3///////AAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GradShip"
+    },
+    "image2": {
+        "data": "hwQeAB4AAAAAAAAAAPAPwMwA/wAAAAAAAAAAAACQCUBEAJkAAAAAAAAAAAAAkAlARACZAAAAAAAAAAAAAJCJ7uSOmQAAAAAAAAAAAACQie7ujpkAAAAAAAAAAAAAkInu3Y6ZAAAAAAAAAAAAAMCM7t2OzAAAAAAAAAAAALDLjO7djsy7AAAAAAAAAACwy4zu3Y7MuwAAAAAAAAAA0M3M7t3OzN0AAAAAAAAAANDNzO7dzszdAAAAAAAAAADQzcxm1sbM3QAAAAAAAAAAEMHMZtbGzBEAAAAAAAAAAODOzGbWxszuAAAAAAAAAAAww8xm1sbMMwAAAAAAAAAAQMTMZtbGzEQAAAAAAAAAADDDjGbWhswzAAAAAAAAAODOzIxm5obMzO4AAAAAAAAww+zuZubm7swzAAAAAAAAQMTs7mbm5u7MRAAAAAAAADDDDOBm5gYAzDMAAAAAAADwPwPgaeYJADP/AAAAAAAA8D8D4JnpCQAz/wAAAAAAAPA/A+CZ6QkAM/8AAAAAAADwPwOQmekJADP/AAAAAAAA4M4MkJnpCQDM7gAAAAAAADDDDOCZ6QkAzDMAAAAAAABAxAzgmekJAMxEAAAAAAAAMMMM4JnpCQDMMwAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "AlienShip"
+    },
+    "image3": {
+        "data": "hwQDAAEAAAAFAAAABQAAAAIAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ProjectileBullet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
