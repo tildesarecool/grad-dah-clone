@@ -2,7 +2,9 @@
 
 
 > Open this page at [https://tildesarecool.github.io/grad-dah-clone/](https://tildesarecool.github.io/grad-dah-clone/)
+
 > This is part of [day-by-day project I've introduced on my blog](https://tildesare.cool/2021/12/31/one-per-day-the-picking-a-game-making-platform-project/), *Tildes on the side*.
+
 > The blog post for this day in the project is located at [https://tildesare.cool/2022/01/01/picking-a-game-making-platform-day-1-makecode-arcade/](https://tildesare.cool/2022/01/01/picking-a-game-making-platform-day-1-makecode-arcade/)
 
 ## Use as Extension
